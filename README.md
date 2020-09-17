@@ -1,4 +1,4 @@
-# reddit-video-downlloader
+# reddit-video-downloader
 downloads every post in a given subreddit with titles
 
 downloaded videos will be scaled to 16:9 DAR.
